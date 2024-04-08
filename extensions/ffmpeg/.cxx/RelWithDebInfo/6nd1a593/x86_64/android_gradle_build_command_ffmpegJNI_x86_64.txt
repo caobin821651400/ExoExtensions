@@ -1,0 +1,7 @@
+Executable : D:\sdk\cmake\3.22.1\bin\ninja.exe
+arguments : 
+-C
+D:\2\ExoPlayer\ExoPlayer\extensions\ffmpeg\.cxx\RelWithDebInfo\6nd1a593\x86_64
+ffmpegJNI
+jvmArgs : 
+

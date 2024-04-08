@@ -1,0 +1,1 @@
+ninja: Entering directory `D:\2\ExoPlayer\ExoPlayer\extensions\ffmpeg\.cxx\Debug\4g432b71\armeabi-v7a'

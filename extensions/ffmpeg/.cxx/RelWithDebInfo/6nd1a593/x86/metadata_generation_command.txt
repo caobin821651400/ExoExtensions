@@ -1,0 +1,23 @@
+                    Executable : D:\sdk\cmake\3.22.1\bin\cmake.exe
+arguments : 
+-HD:\2\ExoPlayer\ExoPlayer\extensions\ffmpeg\src\main\jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_PLATFORM=android-16
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=D:\sdk\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=D:\sdk\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=D:\sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\sdk\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\2\ExoPlayer\ExoPlayer\extensions\ffmpeg\buildout\intermediates\cxx\RelWithDebInfo\6nd1a593\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\2\ExoPlayer\ExoPlayer\extensions\ffmpeg\buildout\intermediates\cxx\RelWithDebInfo\6nd1a593\obj\x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BD:\2\ExoPlayer\ExoPlayer\extensions\ffmpeg\.cxx\RelWithDebInfo\6nd1a593\x86
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

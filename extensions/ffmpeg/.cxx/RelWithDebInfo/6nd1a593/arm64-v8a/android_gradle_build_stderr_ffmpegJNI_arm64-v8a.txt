@@ -1,0 +1,1 @@
+ninja: error: 'D:/2/ExoPlayer/ExoPlayer/extensions/ffmpeg/src/main/jni/ffmpeg/android-libs/arm64-v8a/libswresample.a', needed by 'D:/2/ExoPlayer/ExoPlayer/extensions/ffmpeg/buildout/intermediates/cxx/RelWithDebInfo/6nd1a593/obj/arm64-v8a/libffmpegJNI.so', missing and no known rule to make it

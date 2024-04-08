@@ -1,0 +1,3 @@
+D:/2/ExoPlayer/ExoPlayer/extensions/ffmpeg/.cxx/Debug/4g432b71/arm64-v8a/CMakeFiles/ffmpegJNI.dir
+D:/2/ExoPlayer/ExoPlayer/extensions/ffmpeg/.cxx/Debug/4g432b71/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/2/ExoPlayer/ExoPlayer/extensions/ffmpeg/.cxx/Debug/4g432b71/arm64-v8a/CMakeFiles/rebuild_cache.dir
