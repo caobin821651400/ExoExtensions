@@ -79,3 +79,4 @@ extensions/cronet/libs/*
 
 # MIDI extension
 extensions/midi/lib
+/extensions/ffmpeg/.cxx/
